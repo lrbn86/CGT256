@@ -16,3 +16,10 @@ Instructor: Nancy Rasche
 * Create a mood board
 * Perform desirability testing
 * Perform usability testing
+
+## Projects
+Personal Roles/Contributions: Design Documentation Editor, Usability Testing Moderator, Interviewer, Heuristic Evaluator, Competitive Reviews
+* Project 1 (5 team members) - Find a way to break into the college campus market by designing a potential feature for the Waze app. Initial draft.
+* Project 2 (5 team members) - Continuation of Project 1 for final draft.
+* Project 3 (5 team members) - Conduct evaluation of Craigslist website and attempt to redesign the website for a more modern look.
+* Project 4 (4 team members) - Continuation of Project 3 to perform usability testing for current design and team's redesign.
