@@ -1,5 +1,5 @@
-Fall 2020 CGT 256: Principles of UX Design
-## Instructor: Nancy Rasche
+Fall 2020 CGT 256: Principles of UX Design  
+Instructor: Nancy Rasche  
 
 ## Learning Objectives
 * Practice User-Centered Design (UCD)
